@@ -5,13 +5,18 @@ This project helps defense systems transition from reactive to proactive mainten
 
 <h3>Problem Statement </h3>
 In modern defense, equipment failure during critical missions can be catastrophic. Regular manual checks are labor-intensive and inefficient. Our goal is to:
+
 1. Analyze performance data from military equipment
+
 2. Predict operational status using classification models
+
 3. Display insights through a user-friendly web dashboard
 
 <h3>Machine Learning Models </h3>
 We implemented and compared the following ML models:
+
 1. Random Forest Classifier – Ensemble method that uses multiple decision trees.
+
 2. Support Vector Machine (SVM) – Good for high-dimensional data with strong classification boundaries.
 
 <h3>Data Description</h3>
