@@ -40,9 +40,7 @@ Performance Metrics
 
 <h3>Datasets:</h3>
 1. jets_data_updated.csv
-
 2. guns_data_with_environment.csv
-
 3. IEEE_DRDO_data.csv
 
 
